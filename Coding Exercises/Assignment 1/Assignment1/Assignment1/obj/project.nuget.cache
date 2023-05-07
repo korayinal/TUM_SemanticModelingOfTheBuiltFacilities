@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vVkLbsuG0FLcKPi3qAKLRd2pxMi+YaOU93x8JWnfZ473xYJihUfpK55roXRuffHxgNdLvlo1lwNgm3mvLYb6Q==",
+  "success": true,
+  "projectFilePath": "D:\\WIP\\00_Akademic_TUM_ITBE\\2. Semester\\Semantic Modelling of the Built World\\Semantic Modelling of the Built Facilities\\Coding Exercises\\Assignment 1\\Assignment1\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koray\\.nuget\\packages\\geometrygymifc\\0.1.22\\geometrygymifc.0.1.22.nupkg.sha512",
+    "C:\\Users\\koray\\.nuget\\packages\\newtonsoft.json\\6.0.3\\newtonsoft.json.6.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GeometryGymIFC 0.1.22' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GeometryGymIFC",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
